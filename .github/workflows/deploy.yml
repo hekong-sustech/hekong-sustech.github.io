@@ -1,0 +1,62 @@
+name: Deploy jemdoc+MathJax to gh-pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Make jemdoc executable
+        run: chmod +x jemdoc
+
+      - name: Remove broken symlink to prevent build errors
+        run: |
+          if [ -L "www/dist/jemdoc.css" ]; then
+            echo "Removing broken symbolic link: www/dist/jemdoc.css"
+            rm "www/dist/jemdoc.css"
+          fi
+
+      - name: Build jemdoc files
+        run: |
+          # Create a clean output directory
+          mkdir -p _site
+          
+          # Copy photos directory to the output directory
+          if [ -d "www/photos" ]; then
+            cp -r www/photos _site/
+          fi
+          
+          # Build jemdoc files into _site directory
+          cd www
+          # Copy CSS files to output directory
+          cp ../css/* ../_site/ || true
+          # Build all jemdoc files
+          for file in *.jemdoc; do
+            if [ -f "$file" ]; then
+              echo "Building $file..."
+              ../jemdoc -c jemdoc.conf -o ../_site/${file%.jemdoc}.html "$file"
+            fi
+          done
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com' 
