@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+## 最新发表的论文列表
+=== 2025
+- Mehdi Golestani, Guangtai Tian, Yongduan Song, Guangren Duan, He Kong. \n
+  A Novel Control Approach Accommodating Dynamic Process and Steady-State Accuracy \n
+  /IEEE Transactions on Circuits and Systems I: Regular Papers/ \n
+
+- Weijie Ren, Guang-Ren Duan, Ping Li, He Kong \n
+  Set-Based Fault-Tolerant Control for Continuous-Time Nonlinear Systems: A Fully Actuated System Approach \n
+  /IEEE\/ASME Transactions on Mechatronics/ \n
+
+## To add a new publication, copy and paste the template below under the corresponding year.
+## === Template
+## - [Author 1], [Author 2], and [Author 3]. \n
+##   [Title of the Paper] \n
+##   /[Journal or Conference Name]/, [Volume, pages, etc.], [Year]. \n
+
+## 如何使用此模板
+## 说明如何添加新的出版物（中文）
+## 要添加新的出版物，请复制下方的模板并粘贴到相应的年份下。
+## === （年份）
+## - [作者1], [作者2], and [作者3]. \n
+##    [论文标题] \n
+##    /[期刊或会议名称]/, [卷、页码等信息], [年份]. \n
