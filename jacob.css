@@ -9,8 +9,8 @@ a:hover {
 }
 
 div#toptitle {
-	margin-bottom: 1.3em;
-	border-bottom: 1px solid #c0c0c0;
+	margin-bottom: 1.2em;
+	border-bottom: none;
 }
 
 h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
