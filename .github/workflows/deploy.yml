@@ -40,6 +40,11 @@ jobs:
             cp -r www/photos _site/
           fi
           
+          # Copy videos directory to the output directory
+          if [ -d "www/videos" ]; then
+            cp -r www/videos _site/
+          fi
+          
           # Build jemdoc files into _site directory
           cd www
           # Copy CSS files to output directory
