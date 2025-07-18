@@ -1,15 +1,73 @@
-# jemdoc: menu{MENU}{publications.html}, nofooter
-= Publications
+# jemdoc: menu{MENU}{publications.html}
+= He Kong (孔贺) - Publications
 
-## 最新发表的论文列表
-=== 2025
-- Mehdi Golestani, Guangtai Tian, Yongduan Song, Guangren Duan, He Kong. \n
-  A Novel Control Approach Accommodating Dynamic Process and Steady-State Accuracy \n
-  /IEEE Transactions on Circuits and Systems I: Regular Papers/ \n
+[https://scholar.google.com.hk/citations?user=MSuIvW4AAAAJ&hl=zh-CN Google Scholar]
 
-- Weijie Ren, Guang-Ren Duan, Ping Li, He Kong \n
-  Set-Based Fault-Tolerant Control for Continuous-Time Nonlinear Systems: A Fully Actuated System Approach \n
-  /IEEE\/ASME Transactions on Mechatronics/ \n
+
+Below is a selected list of publications by topic:
+
+=== Robotic perception
+- [https://ieeexplore.ieee.org/document/10551479 SLAM-based joint calibration of multiple asynchronous microphone arrays and sound source localization] \n
+  J Wang, Y He, D Su, K Itoyama, K Nakadai, J Wu, S Huang, Y Li, H Kong \n
+  /IEEE Transactions on Robotics/ 40, 2024 \n
+
+- [https://ieeexplore.ieee.org/document/9421378 Necessary and Sufficient Conditions for Observability of SLAM-Based TDOA Sensor Array Calibration and Source Localization] \n
+  D Su, H Kong, S Sukkarieh, S Huang \n
+  /IEEE Transactions on Robotics/ 37, 2021 \n
+
+- [https://arxiv.org/abs/2410.20703 Optimal Sensor Placement for Full-Set TDOA Localization Accounting for Sensor Location Errors] \n
+  C Zhang, X Han, H Kong, KC Ho \n
+  /IEEE Transactions on Aerospace and Electronic Systems/ \n
+
+- [https://ieeexplore.ieee.org/document/11048406 Observability-Aware Active Calibration of Multi-Sensor Extrinsics for Ground Robots via Online Trajectory Optimization] \n
+  J Wang, Y Kang, L Fu, K Nakadai, H Kong \n
+  /IEEE Sensors Journal/ \n
+
+- [https://arxiv.org/abs/2506.02773 AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers] \n
+  L Fu, Y Liu, Z Liu, Z Yang, ZQ Wang, Y Li, H Kong \n
+  /arXiv preprint arXiv:2506.02773/ \n
+
+- [https://ieeexplore.ieee.org/document/10802630 I-asm: Iterative acoustic scene mapping for enhanced robot auditory perception in complex indoor environments] \n
+  L Fu, Y He, J Wang, X Qiao, H Kong \n
+  /2024 IEEE\/RSJ International Conference on Intelligent Robots and Systems(IROS)/ \n
+
+- [https://ieeexplore.ieee.org/document/10801363 Asynchronous microphone array calibration using hybrid tdoa information] \n
+  C Zhang, J Wang, H Kong \n
+  /2024 IEEE\/RSJ International Conference on Intelligent Robots and Systems(IROS)/ \n
+
+- [https://ieeexplore.ieee.org/document/10889358 Improved Extrinsic Calibration of Acoustic Cameras via Batch Optimization] \n
+  Z Li, J Wang, X Li, H Kong \n
+  /2025 International Conference on Acoustics, Speech, and Signal Processing(ICASSP)/ \n
+
+=== Advanced estimation and control
+
+- [https://dl.acm.org/doi/abs/10.1016/j.automatica.2024.112103 Parameterized gain-constrained Kalman Filtering via singular value decomposition]\n
+  C Wang, F Yao, T Chen, WX Zheng, GR Duan, H Kong\n
+  /Automatica/ 174, 112103, 2025\n
+
+- [https://dl.acm.org/doi/10.1016/j.automatica.2023.111049 Noise covariance estimation via autocovariance least-squares with deadbeat filters] \n
+  H Kong\n
+  /Automatica/ 153, 111049, 2023\n
+
+- [https://ieeexplore.ieee.org/document/9896948 Identifiability analysis of noise covariances for LTI stochastic systems with unknown inputs]\n
+  H Kong, S Sukkarieh, TJ Arnold, T Chen, B Mu, WX Zheng\n
+  /IEEE Transactions on Automatic Control/, 2023\n
+
+- [https://dl.acm.org/doi/abs/10.1016/j.automatica.2021.109871 Kalman filtering under unknown inputs and norm constraints] \n
+  H Kong, M Shan, S Sukkarieh, T Chen, WX Zheng \n
+  /Automatica/ 133, 109871, 2021 \n
+
+- [https://ieeexplore.ieee.org/abstract/document/10992258 A high-order fully actuated system approach to attitude control of 3D Cubli] \n
+  Z Liu, F Yao, L Sun, F Han, GR Duan, H Kong \n
+  /IEEE Transactions on Aerospace and Electronic Systems/, 2025 \n
+
+- [https://ieeexplore.ieee.org/document/10965583 Prescribed-time control of nonlinear systems with global prescribed performance for state errors] \n
+  G Tian, M Golestani, J Lam, GR Duan, H Kong \n
+  /IEEE Transactions on Circuits and Systems I: Regular Papers/, 2025 \n
+
+- [https://ieeexplore.ieee.org/document/10683810 A high-order fully actuated system approach to control of overhead cranes]\n
+  F Yao, G Tian, A Wu, GR Duan, H Kong\n
+  /IEEE\/ASME Transactions on Mechatronics/, 2024\n
 
 ## To add a new publication, copy and paste the template below under the corresponding year.
 ## === Template

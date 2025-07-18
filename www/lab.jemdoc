@@ -1,10 +1,13 @@
-# jemdoc: menu{MENU}{lab.html}, nofooter
-= Welcome to the Active Intelligent Systems Lab (AISLAB)!
+# jemdoc: menu{MENU}{lab.html}
+= Welcome to the Active Intelligent Systems Lab (ACT LAB)!
 
-~~~
-{}{img_left}{photos/summer_2025_grads.jpg}{alt text}{749}{500}
-~~~
+The ACT Lab(*Ac*tive In*t*elligent Systems 主动智能系统实验室) is dedicated to the following thematic topics:
 
-== About Our Lab
+- Robotic Perception and Fusion (vision, audition, olfaction)
+- Robot Audition (acoustic mapping/tracking, and related algorithm/hardware development)
+- State Estimation (estimation under unknown inputs; localization)
+- Advanced Control (model-based and learning-based control of humanoid robots, underactuated mechatronic systems, logical networked systems)
+- Applications: environmental monitoring, robotic inspection of hazard industries such as chemical and mining, aerospace, etc
 
-== We are hiring!
+=== Links
+[https://github.com/AISLAB-sustech Our github]

@@ -1,0 +1,96 @@
+# jemdoc: menu{MENU}{joinus.html}
+= Join Us!
+
+We are constantly looking for dedicated and talented people to join our lab at the levels of undergraduate interns/visitors, Master students, PhD students, postdoctoral researchers, and research-track professors.
+
+~
+{}{raw}
+<style>
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 20px 0;
+}
+.photo-item {
+  flex: 1;
+  min-width: 300px;
+  max-width: 48%;
+}
+.photo-item img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.single-photo {
+  max-width: 100%;
+  margin: 20px 0;
+}
+.single-photo img {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+</style>
+
+<div class="photo-gallery">
+  <div class="photo-item">
+    <img src="photos/Graduates-2025-1.JPG" alt="Graduates 2025">
+  </div>
+  <div class="photo-item">
+    <img src="photos/Graduates-2025-3.jpg" alt="Graduates 2025">
+  </div>
+</div>
+
+<div class="single-photo">
+  <img src="photos/Guaduates-2025-2.JPG" alt="Graduates 2025">
+</div>
+
+<div class="photo-gallery">
+  <div class="photo-item">
+    <img src="photos/Lab-People-2024.jpg" alt="Lab People 2024">
+  </div>
+  <div class="photo-item">
+    <img src="photos/Lab-People-2025.jpg" alt="Lab People 2025">
+  </div>
+</div>
+
+<div class="photo-gallery">
+  <div class="photo-item">
+    <img src="photos/Run.jpg" alt="Running">
+  </div>
+  <div class="photo-item">
+    <img src="photos/Running.jpg" alt="Running">
+  </div>
+</div>
+~
+
+*For postdoctoral or higher level positions*: the candidate should have obtained or is expecting to obtain a PhD degree in control, robotics, mechatronics, machine learning, and other related fields. The candidate should have published 1-2 papers in top journals or conferences.
+
+*For Master\/PhD student positions*: the candidate is expected to have very strong skills in at least one of the following areas: programming (Python, PyTorch, C++, etc); embedded systems development; ROS; Mechatronics & hardware design. *Experience in major competitions such as RoboMaster will be a plus*.
+
+*For undergraduate interns\/visitors*: the candidate needs to have or is in the process of acquiring programming skills (Python, C++). *Undergraduate students from SUSTech or based in Shenzhen/the Greater Bay area are specially welcomed*.
+
+*Note to SUSTech undergraduate students*: What we offer includes, but not limited to the following:
+- lab facilities
+- more than 30+ motion capture systems
+- Unitree humanoid robots, robot dog; wheeled mobile robots 
+- Other platforms developed in-house, including Cubli, acoustic perception systems, etc 
+- The team's supervision, and an ad hoc but somewhat systematic research training experience
+- Credit-based recognition 
+- Recommendation letter from the lab director
+
+*南科大在校本科生*，在联系之前，请认真阅读。我们可以提供:
+- 先进的实验平台和科研条件
+- 30+台套动作捕捉系统
+- 宇树人形机器人G1、机器狗Go2；轮足机器人
+- 团队自研的其他实验平台（Cubli、感知模组等）
+- 得到指导老师和课题组高年级学生的指导，获得较为系统的科学训练，迅速加强相关技能，尝试和探索自己感兴趣的方向
+- 所参与的项目，如有论文\/专利产出，给与基于贡献的承认和作者排序
+- 指导老师推荐信（仅对在课题组做了实质性工作的同学）
+
+Should you have further questions, feel free to contact us.

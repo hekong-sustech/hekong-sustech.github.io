@@ -1,40 +1,71 @@
-# jemdoc: menu{MENU}{people.html}, nofooter
+# jemdoc: menu{MENU}{people.html}
+= He Kong (孔贺) - People
+
 == Principal Investigator
-- He Kong, Associate Professor
+- He Kong, Lab Director
 
-== Post-docs and Visitors
-
-- Huanzhang Hu 胡 焕章
+== Post-docs
+- Mehdi Golestani
+- Seyed Ali Rakhshan
 
 == PhD Students
-- Yu Liu 刘 宇
-- Xiao Ren 任 逍
-- Fuxin Yao 姚 福星
+- Yu Liu 刘宇 (co-supervising with Prof. Youfu Li at City University of Hong Kong)
+- Fuxin Yao 姚福星
+- Xiao Ren 任逍
+- Mingyin Tang 唐明银
+- Weijie Ren 任炜杰 (co-supervising with Prof Guangren Duan)
+- Haowen Liu 刘浩文 (co-supervising with Prof Guangren Duan)
+- Tan Wang 王坦 (co-supervising with Prof Guangren Duan)
 
 == Master's Students
-- Zhijie Liu 柳 志杰
-- Linya Fu 傅 琳雅
-- Wengzong Biao 翁 宗标
+- Zhijie Liu 柳志杰
+- Wengzong Biao 翁宗标
+- Heye Wang 王鹤野
+- Chengjun Yang 杨程竣
+- Junqi Huang 黄均琦
+- Ming Huang 黄茗
 
 == Undergraduate Students
-- Longyi Bai 白 龙奕
-- [https://york1to.moe/ Yaozhong Kang 康 耀中]
+- Zedong Yang 杨泽栋
+- Haoyu Wang 王浩宇
+- Longyi Bai 白龙奕
+- Yuning Guo 郭昱宁
+- Di Wang 汪迪
+- Dongli Jin 金东立
+- Yuhui Yang 杨宇晖
+- Xintong Mai 麦昕彤
+
+== Visitors
+- Hongmai Liu 刘宏迈, now pursuing Master studies at Northeastern University
+- Jialin Mao 毛佳林, now pursuing Master studies at CUHK-Shenzhen
+- Huanzhang Hu 胡焕章, now pursuing Master studies at CUHK-Shenzhen
+- Peng Zhang 张鹏, now working at Huawei
+- Jinhao Chen 陈锦豪, now pursuing Bachelor studies at Shenzhen Technology University
+- Yeying Yang 杨乐蓥, now pursuing Master studies at the University of Hong Kong
+- Yuexin Zhang 张月新, Associate Prof at Guangdong Polytechnic Normal University
 
 == Alumni
 
 === PhD Alumni
 
 === Master's Alumni
-- Xu qiao 乔 旭(2025)
-- Zhi Li 李 智(2025)
-- Jiang Wang 王 江(2024)
+- Linya Fu 傅琳雅(2025), pursuing PhD studies at the Hong Kong Polytechnic University
+- Xu qiao 乔旭(2025), working at Sunwoda
+- Zhi Li 李智(2025), now working at BYD
+- Chenxiao Wang 王辰潇(2025), working at PICC
+- Jiang Wang 王江(2024), now pursuing PhD studies at the Institute of Science Tokyo
+- Yuanzheng He 何元正(2024), working in the robotic industry
 
 === Undergraduate Alumni
-- Xiaoyang Li 李 潇阳(2025),M.S, Nanjing University
-- Xinyang Han 韩 鑫阳(2025)
-- Zizheng Zhongwu 钟吴 子正(2025)
-- Zhou Chen 陈 骤(2025)
+- [https://york1to.moe/ Yaozhong Kang 康耀中(2025)], now pursuing Master studies at the Institute of Science Tokyo
+- Xiaoyang Li 李潇阳(2025), now pursuing Master studies at Nanjing University
+- Xinyang Han 韩鑫阳(2025), now pursuing Master studies at Chinese Academy of Science
+- [https://squarezhong.notion.site Zizheng Zhongwu 钟吴子正(2025)], now pursuing Master studies at Zhejiang University
+- Zhou Chen 陈骤(2025), now pursuing Master studies at Nanyang Technological University
+- Zhengyang Hu 胡正阳(2025), now working at Huawei
+
 === Former Post-docs and Visitors
+- Zeya Yin 殷泽亚, now pursuing PhD studies at the University of Sydney
 
 ## How to Use This Template
 ## - Add new members under the appropriate category using a hyphen "-".

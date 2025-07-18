@@ -1,0 +1,109 @@
+# jemdoc: menu{MENU}{demos.html}
+= Demos
+
+~
+{}{raw}
+<style>
+.video-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.video-item {
+  flex: 1;
+  min-width: 400px;
+  max-width: 48%;
+}
+.video-item video {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+  background-color: #000;
+}
+.video-description {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #527bbd;
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: center;
+}
+.portrait-video {
+  max-width: 30%;
+  min-width: 300px;
+}
+.portrait-video video {
+  height: 300px;
+  object-fit: contain;
+  background-color: #000;
+}
+</style>
+
+<div class="video-container">
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/Acoustic-Mapping.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>Acoustic Mapping</strong>
+    </div>
+  </div>
+  
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/G1-Dance.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>G1 Dance</strong>
+    </div>
+  </div>
+</div>
+
+<div class="video-container">
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/G1-Lay.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>G1 Lay</strong>
+    </div>
+  </div>
+  
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/TRO2024_Multimedia.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>TRO 2024</strong>
+    </div>
+  </div>
+</div>
+
+<div class="video-container">
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/Acoustic-Camera.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>Acoustic Camera</strong>
+    </div>
+  </div>
+  
+  <div class="video-item portrait-video">
+    <video controls>
+      <source src="videos/Cubilc-on-Board.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>Cubli on Board</strong>
+    </div>
+  </div>
+</div>
+~
