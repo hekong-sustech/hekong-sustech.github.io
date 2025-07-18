@@ -139,6 +139,8 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="He Kong's (孔贺) personal website. Associate Professor at Southern University of Science and Technology (SUSTech), Shenzhen, China. Research interests include robotic perception, robot audition, state estimation, and advanced control." />
+  <meta name="keywords" content="He Kong, 孔贺, SUSTech, Southern University of Science and Technology, Robotics, Robotic Perception, Robot Audition, State Estimation, Advanced Control, Shenzhen" />
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />

@@ -30,10 +30,18 @@ jobs:
             rm "www/dist/jemdoc.css"
           fi
 
-      - name: Build jemdoc files
+      - name: Build and prepare site for deployment
         run: |
           # Create a clean output directory
           mkdir -p _site
+
+          # Copy SEO files to the output directory
+          if [ -f "robots.txt" ]; then
+            cp robots.txt _site/
+          fi
+          if [ -f "sitemap.xml" ]; then
+            cp sitemap.xml _site/
+          fi
           
           # Copy photos directory to the output directory
           if [ -d "www/photos" ]; then

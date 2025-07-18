@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hekong-sustech.github.io/sitemap.xml 

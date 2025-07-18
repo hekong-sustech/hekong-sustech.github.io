@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{lab.html}
 = Welcome to the Active Intelligent Systems Lab (ACT LAB)!
 
-The ACT Lab(*Ac*tive In*t*elligent Systems 主动智能系统实验室) is dedicated to the following thematic topics:
+The ACT (*Ac*tive In*t*elligent Systems) Lab 主动智能系统实验室 is dedicated to the following thematic topics:
 
 - Robotic Perception and Fusion (vision, audition, olfaction)
 - Robot Audition (acoustic mapping/tracking, and related algorithm/hardware development)

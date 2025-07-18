@@ -44,21 +44,21 @@
 <div class="video-container">
   <div class="video-item">
     <video width="100%" controls>
-      <source src="videos/Acoustic-Mapping.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <div class="video-description">
-      <strong>Acoustic Mapping</strong>
-    </div>
-  </div>
-  
-  <div class="video-item">
-    <video width="100%" controls>
       <source src="videos/G1-Dance.mp4" type="video/mp4">
       您的浏览器不支持视频播放。
     </video>
     <div class="video-description">
-      <strong>G1 Dance</strong>
+      <strong>Unitree G1 dancing Charleston<br></strong>
+      <strong>火爆B站</strong>的宇树人形查尔斯顿舞视频，<a href="https://shorturl.asia/rQO60" target="_blank">B站链接</a>
+    </div>
+  </div>
+  <div class="video-item">
+    <video width="100%" controls>
+      <source src="videos/G1-Lay.mp4" type="video/mp4">
+      您的浏览器不支持视频播放。
+    </video>
+    <div class="video-description">
+      <strong>Unitree G1 lying flat(躺平)</strong>
     </div>
   </div>
 </div>
@@ -66,21 +66,20 @@
 <div class="video-container">
   <div class="video-item">
     <video width="100%" controls>
-      <source src="videos/G1-Lay.mp4" type="video/mp4">
+      <source src="videos/Acoustic-Mapping.mp4" type="video/mp4">
       您的浏览器不支持视频播放。
     </video>
     <div class="video-description">
-      <strong>G1 Lay</strong>
+      <strong>Acoustic Mapping</strong>
     </div>
   </div>
-  
   <div class="video-item">
     <video width="100%" controls>
       <source src="videos/TRO2024_Multimedia.mp4" type="video/mp4">
       您的浏览器不支持视频播放。
     </video>
     <div class="video-description">
-      <strong>TRO 2024</strong>
+      <strong>IEEE TRO 2024, SLAM-based Calibration of multiple microphone arrays</strong>
     </div>
   </div>
 </div>
@@ -102,7 +101,7 @@
       您的浏览器不支持视频播放。
     </video>
     <div class="video-description">
-      <strong>Cubli on Board</strong>
+      <strong>IEEE TAES 2024, Attitude control of Cubli with disturbance rejection</strong>
     </div>
   </div>
 </div>

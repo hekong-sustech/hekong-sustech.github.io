@@ -2,13 +2,46 @@
 = He Kong (孔贺)
 
 ~~~
-{}{img_left}{photos/he_kong_2.png}{alt text}{245}{187}{}
-Associate Professor, [https://aim.sustech.edu.cn// School of Automation and Intelligent Manufacturing], \n
-Member and Deputy Director of the [https://sir.sustech.edu.cn/ SUSTech Institute of Robotics] \n
-[https://sustech.edu.cn/ Southern University of Science and Technology (SUSTech), Shenzhen, China]\n
-\n
-\n
-/Photo taken by Daobilige Su in 2018 during a field trip in Narrabri NSW Australia/
+{}{raw}
+<style>
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.profile-image {
+  width: 294px;
+  height: 179px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.profile-info {
+  flex: 1;
+}
+.photo-caption {
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  margin-top: 5px;
+  width: 294px;
+}
+</style>
+
+<div class="profile-container">
+  <div>
+    <img src="photos/he_kong_2.png" alt="He Kong" class="profile-image">
+    <div class="photo-caption">Photo taken by Daobilige Su in 2018 during a field trip in Narrabri NSW Australia</div>
+  </div>
+  <div class="profile-info">
+    <br>
+    <br>
+    He Kong(孔贺)<br>
+    Associate Professor, <a href="https://aim.sustech.edu.cn/">School of Automation and Intelligent Manufacturing</a><br>
+    Member and Deputy Director of the <a href="https://sir.sustech.edu.cn/">SUSTech Institute of Robotics</a><br>
+    <a href="https://sustech.edu.cn/">Southern University of Science and Technology (SUSTech), Shenzhen, China</a>
+  </div>
+</div>
 ~~~
 
 ~~~
