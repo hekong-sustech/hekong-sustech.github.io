@@ -4,10 +4,10 @@
 The ACT (*Ac*tive In*t*elligent Systems) Lab 主动智能系统实验室 is dedicated to the following thematic topics:
 
 - Robotic Perception and Fusion (vision, audition, olfaction)
-- Robot Audition (acoustic mapping/tracking, and related algorithm/hardware development)
+- Robot Audition (acoustic mapping and tracking, and related hardware system development)
 - State Estimation (estimation under unknown inputs; localization)
 - Advanced Control (model-based and learning-based control of humanoid robots, underactuated mechatronic systems, logical networked systems)
-- Applications: environmental monitoring, robotic inspection of hazard industries such as chemical and mining, aerospace, etc
+- Applications: environmental monitoring, aerospace, robotic inspection of hazard industries such as chemical and mining, etc
 
 === Links
 [https://github.com/AISLAB-sustech Our github]
