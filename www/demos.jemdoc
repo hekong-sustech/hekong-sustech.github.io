@@ -21,6 +21,11 @@
   object-fit: contain;
   background-color: #000;
 }
+.video-item iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
 .video-description {
   margin-top: 10px;
   padding: 10px;
@@ -41,6 +46,20 @@
 }
 </style>
 
+<div class="video-container">
+  <div class="video-item">
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114991256570420&bvid=BV1tvtCzxEET&cid=31557881349&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <div class="video-description">
+      <strong>Unitree G1 Breakdancing</strong>
+    </div>
+  </div>
+  <div class="video-item">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115200736888517&bvid=BV1ewpFzhEVZ&cid=32371706738&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <div class="video-description">
+      <strong>Unitree G1 Being Super Stubborn under Strong Disturbances</strong>
+    </div>
+  </div>
+</div>
 <div class="video-container">
   <div class="video-item">
     <video width="100%" controls>
