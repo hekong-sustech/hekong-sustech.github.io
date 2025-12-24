@@ -71,11 +71,11 @@
 <div class="profile-container">
   <div>
     <img src="photos/Prof_Yoshihiko_Nakamura1.jpg" alt="IROS" class="profile-image">
-    <div class="photo-caption">Photo 1 of the isit of Prof Yoshihiko Nakamura</div>
+    <div class="photo-caption">Photo 1 of the visit of Prof Yoshihiko Nakamura</div>
   </div>
   <div>
     <img src="photos/Prof_Yoshihiko_Nakamura2.jpg" alt="IROS" class="profile-image">
-    <div class="photo-caption">Photo 2 of the isit of Prof Yoshihiko Nakamura</div>
+    <div class="photo-caption">Photo 2 of the visit of Prof Yoshihiko Nakamura</div>
   </div>
 </div>
 ~~~
