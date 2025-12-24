@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{photos.html}
+= Research
+
+~~~
+{}{raw}
+<style>
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.profile-image {
+  width: 480px;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.profile-info {
+  flex: 1;
+}
+.photo-caption {
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  margin-top: 5px;
+  width: 382px;
+}
+</style>
+
+<div class="profile-container">
+  <div>
+    <img src="photos/IROS1.jpg" alt="IROS" class="profile-image">
+    <div class="photo-caption">IROS photo 1</div>
+  </div>
+  <div>
+    <img src="photos/IROS2.jpg" alt="IROS" class="profile-image">
+    <div class="photo-caption">IROS photo 2</div>
+  </div>
+
+</div>
+~~~
+
+~~~
+{}{raw}
+<style>
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.profile-image {
+  width: 480px;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.profile-info {
+  flex: 1;
+}
+.photo-caption {
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  margin-top: 5px;
+  width: 382px;
+}
+</style>
+
+<div class="profile-container">
+  <div>
+    <img src="photos/Prof_Yoshihiko_Nakamura1.jpg" alt="IROS" class="profile-image">
+    <div class="photo-caption">Photo 1 of the isit of Prof Yoshihiko Nakamura</div>
+  </div>
+  <div>
+    <img src="photos/Prof_Yoshihiko_Nakamura2.jpg" alt="IROS" class="profile-image">
+    <div class="photo-caption">Photo 2 of the isit of Prof Yoshihiko Nakamura</div>
+  </div>
+</div>
+~~~
