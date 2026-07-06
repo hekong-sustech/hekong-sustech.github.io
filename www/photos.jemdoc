@@ -30,28 +30,6 @@
 
 <div class="profile-container">
   <div>
-    <img src="photos/Graduates-2026-2.jpg" alt="Graduates 2026" class="profile-image">
-    <div class="photo-caption">Graduates 2026 photo 2</div>
-  </div>
-  <div>
-    <img src="photos/Graduates-2026-1.jpg" alt="Graduates 2026" class="profile-image">
-    <div class="photo-caption">Graduates 2026 photo 1</div>
-  </div>
-</div>
-
-<div class="profile-container">
-  <div>
-    <img src="photos/Lab-People-2026.jpg" alt="Lab People 2026" class="profile-image">
-    <div class="photo-caption">Lab People 2026</div>
-  </div>
-  <div>
-    <img src="photos/Mehdi.jpg" alt="Mehdi" class="profile-image">
-    <div class="photo-caption">Mehdi</div>
-  </div>
-</div>
-
-<div class="profile-container">
-  <div>
     <img src="photos/IROS1.jpg" alt="IROS" class="profile-image">
     <div class="photo-caption">IROS photo 1</div>
   </div>
@@ -61,6 +39,30 @@
   </div>
 
 </div>
+
+<div class="profile-container">
+  <div>
+    <img src="photos/Graduates-2026-2.jpg" alt="Graduates 2026" class="profile-image">
+    <div class="photo-caption">Graduation 2026 photo 1</div>
+  </div>
+  <div>
+    <img src="photos/Graduates-2026-1.jpg" alt="Graduates 2026" class="profile-image">
+    <div class="photo-caption">Graduation 2026 photo 2</div>
+  </div>
+</div>
+
+<div class="profile-container">
+  <div>
+    <img src="photos/Lab-People-2026.jpg" alt="Lab People 2026" class="profile-image">
+    <div class="photo-caption">Graduation 2026 photo 3</div>
+  </div>
+  <div>
+    <img src="photos/Mehdi.jpg" alt="Mehdi" class="profile-image">
+    <div class="photo-caption">Graduation 2026 photo 4</div>
+  </div>
+</div>
+
+
 ~~~
 
 ~~~
