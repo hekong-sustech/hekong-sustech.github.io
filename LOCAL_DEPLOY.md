@@ -36,11 +36,15 @@ open _site/index.html
 ```
 
 **方式 2: 使用 Python 服务器**
+
+在项目根目录运行：
+
 ```bash
-cd _site
-python3 -m http.server 8000
+python3 -m http.server 8000 --directory _site
 ```
 然后访问 http://localhost:8000
+
+重新构建时，脚本会清空构建产物并保留 `_site` 目录，避免已打开终端的工作目录失效。如果旧终端遇到 `FileNotFoundError`，请先重新进入项目目录，再运行上述命令。
 
 **方式 3: 使用 live-server (需要先安装)**
 ```bash
@@ -125,4 +129,4 @@ math2png("E = mc^2", "output_dir", prefix="formula")
 
 - jemdoc 文档: http://jemdoc.jaboc.net/
 - MathJax 文档: https://docs.mathjax.org/
-- 项目仓库: 查看 README.md 和 issues 
+- 项目仓库: 查看 README.md 和 issues

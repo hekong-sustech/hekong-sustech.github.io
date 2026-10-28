@@ -11,10 +11,10 @@ if [ ! -x "jemdoc" ]; then
     chmod +x jemdoc
 fi
 
-# 创建输出目录
+# 清空构建产物并保留输出目录，避免终端或预览服务器的工作目录失效
 echo "📁 创建输出目录..."
-rm -rf _site
 mkdir -p _site
+find _site -mindepth 1 -delete
 
 # 复制照片目录
 if [ -d "www/photos" ]; then
@@ -56,7 +56,7 @@ echo "📂 网站文件已生成在 _site 目录中"
 echo "💡 您可以通过以下方式预览："
 echo "   1. 直接打开 _site/index.html"
 echo "   2. 使用 Python 启动简单服务器："
-echo "      cd _site && python3 -m http.server 8000"
+echo "      python3 -m http.server 8000 --directory _site"
 echo "   3. 使用 live-server (如果已安装)："
 echo "      cd _site && live-server"
 echo ""

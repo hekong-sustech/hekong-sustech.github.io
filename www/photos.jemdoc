@@ -26,7 +26,47 @@
   margin-top: 5px;
   width: 382px;
 }
+.event-photos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 980px;
+  margin: 20px 0;
+}
+.event-photos figure {
+  flex: 1 1 300px;
+  min-width: 0;
+  margin: 0;
+}
+.event-photos img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.event-photos figcaption {
+  margin-top: 5px;
+  font-size: 12px;
+  color: #666;
+}
 </style>
+
+<h2 id="world-humanoid-robot-games-2026">2026 World Humanoid Robot Games</h2>
+<div class="event-photos">
+  <figure>
+    <a href="photos/World-Humanoid-Robot-Games-2026-1.jpg">
+      <img src="photos/World-Humanoid-Robot-Games-2026-1.jpg" alt="ACT Lab team members with two Tiangong 3.0 cheerleading robots at the 2026 World Humanoid Robot Games" width="1920" height="1270" loading="lazy">
+    </a>
+    <figcaption>ACT Lab team with the Tiangong 3.0 robots.</figcaption>
+  </figure>
+  <figure>
+    <a href="photos/World-Humanoid-Robot-Games-2026-2.jpg">
+      <img src="photos/World-Humanoid-Robot-Games-2026-2.jpg" alt="Two Tiangong 3.0 robots with blue pompoms at the 2026 World Humanoid Robot Games" width="1707" height="1280" loading="lazy">
+    </a>
+    <figcaption>Tiangong 3.0 robots at the 2026 World Humanoid Robot Games.</figcaption>
+  </figure>
+</div>
+<p>Photos: School of Automation and Intelligent Manufacturing, <a href="https://newshub.sustech.edu.cn/en/?p=50101">SUSTech News Hub</a>.</p>
 
 <div class="profile-container">
   <div>
