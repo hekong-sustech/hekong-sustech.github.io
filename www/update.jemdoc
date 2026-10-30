@@ -1,15 +1,28 @@
 # jemdoc: menu{MENU}{update.html}
-= He Kong (孔贺) - Update
+= He Kong (孔贺) - News
 
 == Recent News
 
-. *2026.10:* Our paper “REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal” has been accepted to IEEE Humanoids 2026. See paper [https://arxiv.org/abs/2610.36546 here] and project web [https://aislab-sustech.github.io/REACH/ here]. Congratulations to Shengzhang, Yuning, Weiyi, and all contributors. Salute to the first three authors who are all SUSTech bachelor students in our lab.
-. *2026.10:* One paper on large-scale iontronic skins (with applications in humanoids) has been published in Nature Machine Intelligence. See paper [https://doi.org/10.1038/s42256-026-01325-6 here]. Also see the demo [https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs42256-026-01325-6/MediaObjects/42256_2026_1325_MOESM11_ESM.mp4 here]. Congratulations to Zhibin and all contributors. Thanks to Profs. Chuanfei Guo, Taihong Wang, and Chaoyang Song, for this pleasant interdisciplinary collaboration opportunity.
-. *2026.10:* One paper on Under-Display ToF Imaging has been published in International Journal of Computer Vision. See the paper [https://doi.org/10.1007/s11263-026-03074-w here]. Congratulations and thanks to Xin and all contributors.
-. *2026.8:* Our lab students have participated in the 2026 World Humanoid Robot Games, and got “runner-up” in the Cheerleading track. See the [https://newshub.sustech.edu.cn/en/?p=50101 media coverage], [https://newshub.sustech.edu.cn/en/wp-content/uploads/2026/09/091788943904596756.mp4 video], and [photos.html\#world-humanoid-robot-games-2026 photos].
-. Our group attended IROS 2025 in Hangzhou, with 3 papers presented, and reunited with our lab alumni and collaborators. See photos [/photos.html here].
-. Congratulations to PhD student Yu Liu for one paper accepted to IEEE Transactions on Intelligent Transportation Systems and AAAI 2026, respectively, based on his work on human motion and intention prediction.
-. We were pleased to host the visit of Prof Yoshihiko Nakamura from Mohamed bin Zayed University of Artificial Intelligence. See the event photos [/photos.html here].
-. Welcome our new lab students, Class of 2025 Master (Heye Wang, Junqi Huang, Ming Huang, Chengjun Yang) and PhD (Mingyin Tang) students.
-. Since 1st July 2026, at the invitation of the Editor-in-Chief Wolfram Burgard, our lab director He Kong will serve as an Associate Editor for the IEEE Transactions on Robotics, a most prestigious journal in the field of robotics.
-. We recently saw off our lab memmbers, including the 2026 class of students (bachelors, masters, and PhD) and postdoc researcher Mehdi Golestani (who will join Fuyao University of Science and Technology as an Assistant Prof).Congratulations to them for their well-deserved achievements. We wish them the best for their future endeavors. See photos [/photos.html here].
+*2026.10*: Our paper “REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal” has been accepted to IEEE Humanoids 2026. See paper [https://arxiv.org/abs/2610.36546 here] and project web [https://aislab-sustech.github.io/REACH/ here]. Congratulations to Shengzhang, Yuning, Weiyi, and all contributors. Salute to the first three authors who are all SUSTech bachelor students in our lab.
+
+*2026.10*: One paper on large-scale iontronic skins (with applications in humanoids) has been published in Nature Machine Intelligence. See paper [https://doi.org/10.1038/s42256-026-01325-6 here]. Also see the demo [demos.html\#nature-machine-intelligence-2026 here]. Congratulations to Zhibin and all contributors. Thanks to Profs. Chuanfei Guo, Taihong Wang, and Chaoyang Song, for this pleasant interdisciplinary collaboration opportunity.
+
+*2026.10*: One paper on Under-Display ToF Imaging has been published in International Journal of Computer Vision. See the paper [https://doi.org/10.1007/s11263-026-03074-w here]. Congratulations and thanks to Xin and all contributors.
+
+*2026.9*: Welcome our new lab students, Class of 2026 Master (Qingyuan Lin and Yunxiao Wang) and PhD (Haowen Jiang and Shuqi Tu) students.
+
+*2026.8*: Our lab students have participated in the 2026 World Humanoid Robot Games, and got “runner-up” in the Cheerleading track. See the [https://newshub.sustech.edu.cn/en/?p=50101 media coverage], [https://newshub.sustech.edu.cn/en/wp-content/uploads/2026/09/091788943904596756.mp4 video], and [photos.html\#world-humanoid-robot-games-2026 photos].
+
+*2026.7*: Since 1st July 2026, at the invitation of the Editor-in-Chief Wolfram Burgard, our lab director He Kong will serve as an Associate Editor for the IEEE Transactions on Robotics, a most prestigious journal in the field of robotics.
+
+*2026.7*: We recently saw off our lab members, including the 2026 class of students (bachelors, masters, and PhD) and postdoc researcher Mehdi Golestani (who will join Fuyao University of Science and Technology as an Assistant Prof). Congratulations to them for their well-deserved achievements. We wish them the best for their future endeavors. See photos [/photos.html here].
+
+*2026.6*: Together with Shenlanxueyuan (深蓝学院), our lab has launched an on-line course on “Humanoid Motion Control”. See the course web [https://www.shenlanxueyuan.com/course/887 here]. We are so glad to see hundreds of enrollments and look forward to interacting with everybody on this exciting learning journey.
+
+*2025.10*: We were pleased to host the visit of Prof Yoshihiko Nakamura from Mohamed bin Zayed University of Artificial Intelligence. See the event photos [/photos.html here].
+
+*2025.10*: Our group attended IROS 2025 in Hangzhou, with 3 papers presented, and reunited with our lab alumni and collaborators. See photos [/photos.html here].
+
+*2025.9*: Congratulations to PhD student Yu Liu for one paper accepted to IEEE Transactions on Intelligent Transportation Systems and AAAI 2026, respectively, based on his work on human motion and intention prediction.
+
+*2025.9*: Welcome our new lab students, Class of 2025 Master (Heye Wang, Junqi Huang, Ming Huang, Chengjun Yang) and PhD (Mingyin Tang) students.
